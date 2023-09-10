@@ -2,10 +2,11 @@
 
 
 ## 🌱My Philosophy
+
 🍏 I maintain a humble attitude as I continue to explore and learn about technology.<br>
 🙌 Sharing my acquired knowledge with others brings me a sense of fulfillment.<br>
 
-## 🔭 2023 Goals
+## 🎯 2023 Goals
 
 I've been learning Java for 6 months, and I plan to continue building a solid foundation in it. I'll be revisiting and reinforcing the basics while also working on problem-solving exercises. In the future, I intend to delve into other modules of Spring and explore Docker.
 
