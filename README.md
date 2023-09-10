@@ -1,4 +1,5 @@
-# ![image](https://github.com/Yang-hung-fei/Yang-hung-fei/assets/126322139/fe752ba3-b46c-441f-817a-91d54dc6d7a8)
+![image](https://github.com/Yang-hung-fei/Yang-hung-fei/assets/126322139/fe752ba3-b46c-441f-817a-91d54dc6d7a8)
+
 
 ## 🌱My Philosophy
 🍏 I maintain a humble attitude as I continue to explore and learn about technology.<br>
