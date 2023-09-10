@@ -3,8 +3,8 @@
 
 ## 🌱My Philosophy
 
-🍏 I maintain a humble attitude as I continue to explore and learn about technology.<br>
-🙌 Sharing my acquired knowledge with others brings me a sense of fulfillment.<br>
+I maintain a humble attitude as I continue to explore and learn about technology.<br>
+Sharing my acquired knowledge with others brings me a sense of fulfillment.<br>
 
 ## 🎯 2023 Goals
 
